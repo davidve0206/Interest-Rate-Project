@@ -1,2 +1,2 @@
 # Interest Rate Project
- Project to better understand interest rate predictions in Colombia
+ Project to understand the accuracy of interest rate predictions from economic analysts, based on Colombia's Central Bank monthly analyst survey (https://www.banrep.gov.co/es/estadisticas/encuesta-mensual-expectativas-analistas-economicos).
